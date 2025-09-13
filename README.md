@@ -79,8 +79,8 @@ task_manager/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/veesaxena15/Task_Management-_System.git
-   cd Task_Management-_System
+   git clone https://github.com/veesaxena15/Task_Management_System.git
+   cd Task_Management_System
    ```
 
 2. **Create and activate virtual environment**

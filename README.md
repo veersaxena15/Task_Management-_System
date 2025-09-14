@@ -73,7 +73,12 @@ task_management_system/
 ├── templates
 |   ├── dashboard.html
 |   ├── login.html
-|   ├── signup.html    
+|   └── signup.html
+|
+├── static
+|   ├── scripts.js
+|   └── style.cs
+
 ```
 
 ---

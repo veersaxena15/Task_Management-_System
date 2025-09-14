@@ -52,24 +52,28 @@ This project was built using:
 ## 📂 Project Structure (simplified)
 
 ```
-task_manager/
+task_management_system/
 │── manage.py
 │── requirements.txt
 │── db.sqlite3
 │
-├── task_app/        # Main app for tasks
-│   ├── migrations/
-│   ├── templates/
-│   ├── static/
+├── tasks/        # Main app for tasks
+│   ├── migrations
+│   ├── static
 │   ├── models.py
 │   ├── views.py
 │   ├── urls.py
 │   └── admin.py
 │
-├── task_manager/    # Project settings
+├── backend/    # Project settings
 │   ├── settings.py
 │   ├── urls.py
 │   └── wsgi.py
+|
+├── templates
+|   ├── dashboard.html
+|   ├── login.html
+|   ├── signup.html    
 ```
 
 ---
